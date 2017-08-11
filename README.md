@@ -4,7 +4,9 @@ A demo for iOS machine learning framework : Core ML
 Only Xcode9 and above are supported.
 
 Model **Places205-GoogLeNet** comes from [Apple Machine Learning]
-(https://developer.apple.com/machine-learning/).
+(https://developer.apple.com/machine-learning/).这个效果并不怎么样
+
+Model **ResNet50** 提供了几种分类的图片识别，效果还可以，人民币竟然识别成carton....
 
 See more details about this demo in [Chinese](http://www.jianshu.com/p/ed8e76081cad).
 
